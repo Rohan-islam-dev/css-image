@@ -9,12 +9,3 @@ h3 {
     text-transform: uppercase;
 }
 
-.header {
-  height: 300px;
- 
-  background-color: bisque;
-  background-image:url('Image/typing.jpg'); 
-  background-repeat: repeat-x;
-
-
-}
